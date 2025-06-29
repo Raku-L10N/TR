@@ -1,0 +1,28 @@
+{
+  "auth": "zef:l10n",
+  "authors": [
+    "Liz"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Turkish localization of Raku",
+  "license": "Artistic-2.0",
+  "name": "L10N::TR",
+  "perl": "6.d",
+  "provides": {
+    "L10N::TR": "lib/L10N/TR.rakumod",
+    "RakuAST::Deparse::L10N::TR": "lib/RakuAST/Deparse/L10N/TR.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+    "LOCALIZATION",
+    "Turkish"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

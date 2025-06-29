@@ -1,0 +1,40 @@
+=begin pod
+
+=head1 NAME
+
+L10N::TR - Turkish localization of Raku
+
+=head1 SYNOPSIS
+
+=begin output
+$ turku -e '' # please add a simple code example in the TR localization
+=end output
+
+=begin code :lang<raku>
+
+use L10N::TR;
+# please add a code example in the TR localization
+
+=end code
+
+=head1 DESCRIPTION
+
+The C<L10N::TR> distribution contains the logic to provide a Turkish
+localization of the Raku Programming Language.  It installs a
+C<turku> executable that will automatically activate the Turkish
+localization.  And it allows one to use the Turkish localization
+in selected programs with a C<use L10N::TR> statement.
+
+=head1 AUTHORS
+
+Liz <l10n@raku.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+Copyright 2025 Raku Localization Team
+
+This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
+
+=end pod
+
+# vim: expandtab shiftwidth=4
