@@ -12,6 +12,7 @@ $ turku -e '' # please add a simple code example in the TR localization
 
 =begin code :lang<raku>
 
+# Must have RAKUDO_RAKUAST=1 environment variable set
 use L10N::TR;
 # please add a code example in the TR localization
 
